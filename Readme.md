@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Respository]((https://github.com/Ahmadi1798/fylo-website.git))
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Respository](https://github.com/Ahmadi1798/fylo-website.git)
+- Live Site URL: [Fylo Website](https://fylo-website-ten.vercel.app/)
 
 ### Built with
 
